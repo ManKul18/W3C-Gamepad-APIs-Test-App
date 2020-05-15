@@ -3,19 +3,7 @@ Demonstrates W3C gamepad APIs usage along with the latest force feedback feature
 
 Web apps available online are too bulky due to the usage of unwanted js event libraries. This is a lightweight web gamepad test application using WebGL that demonstrates usage on W3C gamepad apis https://www.w3.org/TR/gamepad/. At the time of development, there was no good example for using W3C gamepad force feedback feature. So this also works as head up for force feedback feature usage and testing.
 
-Installation and usage is same as any other web app on Tizen TV. 
-
-      wascmd -i AppName -p /widgetfilepath/app.wgt
-      
-Running
-
-      wascmd -r AppName
-      
-Termination
-
-      wascmd -t AppName
-      
-Apart from Tizen TV, this app can be directly used on any browser app for testing the gamepad feature. All you need to do is to open the index.html directly and connect gamepads to PC(running Windows/Linux)
+This app can be directly used on any browser app for testing the gamepad feature. All you need to do is to open the index.html directly and connect gamepads to PC(running Windows/Linux)
 
 If everything is working well you should see screens as below
 
